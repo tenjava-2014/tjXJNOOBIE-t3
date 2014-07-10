@@ -1,0 +1,3 @@
+name: tjXJNOOBIE-t3
+main: com.tenjava.entries.tjXJNOOBIE.t3.TenJava
+version: '${project.version}'
